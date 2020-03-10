@@ -5,3 +5,6 @@ categories:
     articles:
       - article
       - article-2
+  - name: sdk
+    articles: 
+      - user-service
